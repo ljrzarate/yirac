@@ -1,5 +1,4 @@
-# Memoirs Jekyll Theme
+# Yira C
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+Link:https://ljrzarate.github.io/yirac/
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
