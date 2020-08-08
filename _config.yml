@@ -1,7 +1,8 @@
 # Site
 name: "YiraC"
 title: "YiraC"
-description: "Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "Living the life sin motetes."
+small_description: "Travel, culture, lifestyle."
 logo: 'assets/images/yirac_logo.png'
 favicon: 'assets/images/yirac_logo.png'
 baseurl: /yirac

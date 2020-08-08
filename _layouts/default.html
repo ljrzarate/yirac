@@ -76,12 +76,36 @@ ga('send', 'pageview');
         <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
 
+    <div class="social_logo">
+        <p>Mis reders:      </p>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.instagram.com/yira_prz/" >
+                <i class="fab fa-instagram"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.youtube.com/channel/UCj8tTGSJpJLjgDm3bu9AOOw" >
+                <i class="fab fa-youtube"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/yira_prz" >
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+    </div>
+
 
     <!-- Site Tag
     ================================================== -->
     {% if page.url == '/' %}
         <p class="sitetag">
             {{ site.description }}
+        </p>
+        <p class="sitetag_small">
+            {{ site.small_description }}
         </p>
     {% endif %}
 
